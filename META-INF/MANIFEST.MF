@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OMRBranchHotelAutomation
+Bundle-SymbolicName: OMRBranchHotelAutomation
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.baseclass,
+ com.pagemanager,
+ com.pompages,
+ com.runner,
+ com.selenium,
+ com.stepdefinition
